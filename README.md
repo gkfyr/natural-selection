@@ -20,3 +20,6 @@ Each cell has 2 features:
 
 - The Green Cells (Evolving Sensing distance)
 - The Red Cells (Evolving Moving speed)
+
+## Original repository
+- https://github.com/kairess/natural-selection
